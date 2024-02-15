@@ -1,0 +1,15 @@
+Petrov,Alexander,Sergeyevich,Gazprombank,+7 (915) 223-45-67,+7 (903) 987-12-34
+Smirnova,Elena,Anatolyevna,Rosneft,+7 (926) 555-78-90,+7 (965) 321-45-67
+Kozlov,Dmitry,Pavlovich,Sberbank,+7 (925) 789-12-34,+7 (911) 555-67-89
+Ilyin,Oleg,Vladimirovich,Gazprom,+7 (910) 444-55-66,+7 (921) 876-54-32
+Antonova,Tatyana,Igorevna,LUKOIL,+7 (917) 654-32-10,+7 (925) 333-22-11
+Kuznetsov,Igor,Nikolaevich,Russian Railways,+7 (929) 876-54-32,+7 (910) 111-22-33
+Nikitin,Artem,Alexeevich,Gazprom Neft,+7 (926) 333-22-11,+7 (915) 789-01-23
+Lebedeva,Natalya,Valentinovna,Tinkoff,+7 (925) 111-22-33,+7 (929) 444-55-66
+Sokolov,Maxim,Dmitrievich,VTB,+7 (919) 888-99-00,+7 (926) 222-33-44
+Morozov,Yevgeny,Sergeyevich,Alfa-Bank,+7 (917) 111-22-33,+7 (925) 555-44-33
+Petrov,Alexander,Sergeyevich,Gazprombank,+7 (915) 223-45-67,+7 (903) 987-12-34
+Smirnova,Elena,Anatolyevna,Rosneft,+7 (926) 555-78-90,+7 (965) 321-45-67
+Kozlov,Dmitry,Pavlovich,Sberbank,+7 (925) 789-12-34,+7 (911) 555-67-89
+Ilyin,Oleg,Vladimirovich,Gazprom,+7 (910) 444-55-66,+7 (921) 876-54-32
+Antonova,Tatyana,Igorevna,LUKOIL,+7 (917) 654-32-10,+7 (925) 333-22-11
